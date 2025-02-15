@@ -1,2 +1,2 @@
 # deerhacks
-web scraper for uoft club information
+web scraper for uoft course information
